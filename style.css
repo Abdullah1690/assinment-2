@@ -72,3 +72,29 @@ button {
   border-radius: 8px;
   border: none;
 }
+
+/* our-popular-tours area css */
+
+.our-popular-tours {
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.our-popular-tours-content {
+  width: 40%;
+}
+.our-popular-tours-content p {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+.our-popular-tours-content ul {
+  margin-left: 35px;
+}
+.our-popular-tours-img img {
+  max-width: 100%;
+  height: auto;
+}

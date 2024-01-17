@@ -35,4 +35,19 @@
     border-radius: 8px;
     border: none;
   }
+
+  /* our popular tour content area css */
+  .our-popular-tours {
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+    display: flex;
+    flex-direction: column;
+  }
+  .our-popular-tours-content {
+    width: 100%;
+  }
+  .our-popular-tours-img img {
+    margin-top: 30px;
+  }
 }
