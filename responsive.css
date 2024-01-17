@@ -3,4 +3,36 @@
     padding-left: 16px;
     padding-right: 16px;
   }
+
+  .header-content {
+    padding: 24px;
+  }
+
+  .header-content h1 {
+    color: #fff;
+    font-family: Mulish;
+    font-size: 22px;
+    font-weight: 800;
+    text-align: center;
+  }
+
+  .input-container {
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.3);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    padding: 16px;
+  }
+
+  .input-container input,
+  select,
+  button {
+    width: 100%;
+    padding: 8px 16px 8px 16px;
+    border-radius: 8px;
+    border: none;
+  }
 }
