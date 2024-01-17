@@ -202,3 +202,53 @@ button {
   background-size: cover;
   background-position: center;
 }
+
+/* why choose us area css */
+
+.why-choose-us {
+  margin-top: 100px;
+}
+
+.why-choose-us-content {
+  text-align: center;
+}
+
+.why-choose-us h2 {
+}
+
+.why-choose-us p {
+  margin-top: 24px;
+  margin-bottom: 48px;
+}
+
+.why-choose-card-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.card {
+  border-radius: 16px;
+  border: 1px solid rgba(41, 206, 246, 0.2);
+  padding: 32px;
+  max-width: 573px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ornare-bg {
+  background-color: #fbb56333;
+}
+.blue-bg {
+  background-color: #29cef633;
+}
+
+.last-card-parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#last-card {
+  margin-top: 24px;
+}
