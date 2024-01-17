@@ -449,6 +449,13 @@ button {
   width: 100% !important;
 }
 
+.perfect-places-link-container {
+  max-width: 100%;
+}
+.perfect-places-link-container > iframe {
+  max-width: 100%;
+}
+
 /* newsletter-container area css */
 
 .newsletter-container {
