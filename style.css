@@ -342,3 +342,20 @@ button {
   align-items: center;
   gap: 10px;
 }
+
+.button-one {
+  display: flex;
+  justify-content: center;
+  margin-top: 48px;
+  margin-bottom: 100px;
+}
+
+.top-margin {
+  margin-top: 46px;
+}
+
+.fluede {
+  max-width: 100%;
+  height: auto;
+  width: 100% !important;
+}
