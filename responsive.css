@@ -50,4 +50,12 @@
   .our-popular-tours-img img {
     margin-top: 30px;
   }
+
+  .first-img-row,
+  .sec-img-row,
+  .third-img-row {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 24px;
+  }
 }
