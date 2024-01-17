@@ -281,6 +281,21 @@ button {
   align-items: center;
   padding: 56px;
 }
+.booking-card-bg-two {
+  background-image: url("Images/Group\ 40.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+  width: 100%;
+  border-radius: 16px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 56px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
 
 .booking-card-shadow {
   border-radius: 16px;

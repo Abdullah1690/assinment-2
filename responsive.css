@@ -77,6 +77,20 @@
     display: flex;
     flex: none;
   }
+  .booking-card-bg-two {
+    background-image: url("Images/Group\ 40.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    border-radius: 16px;
+    padding: 16px;
+    display: flex;
+    flex: none;
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
 
   .booking-card-shadow {
     border-radius: 16px;
