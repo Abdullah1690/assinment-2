@@ -110,4 +110,25 @@
     margin-right: 24px;
     gap: 10px;
   }
+
+  .newsletter-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-content: space-between;
+    gap: 30px;
+  }
+
+  .cupon {
+    border-radius: 16px;
+    background-color: #ff5400;
+    color: white;
+    text-align: center;
+    max-width: 214px;
+    width: 100%;
+    padding: 24px;
+    position: absolute;
+    bottom: 32px;
+    right: 0;
+    transform: rotate(-19.628deg);
+  }
 }
