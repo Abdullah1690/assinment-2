@@ -423,3 +423,33 @@ form button {
   right: 0;
   transform: rotate(-19.628deg);
 }
+
+/* footer area css */
+
+footer {
+  background-color: rgba(19, 19, 24, 0.05);
+  padding: 80px;
+  margin-top: 100px;
+}
+
+footer p {
+  text-align: center;
+}
+
+footer hr {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.footer-content span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.footer-content p {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 32px;
+}
