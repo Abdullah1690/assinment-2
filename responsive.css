@@ -1,0 +1,6 @@
+@media only screen and (max-width: 600px) {
+  .universal-padding {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
