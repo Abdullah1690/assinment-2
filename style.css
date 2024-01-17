@@ -98,3 +98,107 @@ button {
   max-width: 100%;
   height: auto;
 }
+
+/* 2nd hero section css */
+
+.sec-hero-section-content {
+  text-align: center;
+}
+
+.sec-hero-section-content h2 {
+  color: #131318;
+  font-family: Mulish;
+  font-size: 40px;
+  font-weight: 800;
+}
+.sec-hero-section-content p {
+  margin-top: 24px;
+  margin-bottom: 48px;
+
+  color: rgba(19, 19, 24, 0.7);
+  font-family: Mulish;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.gallery-container {
+}
+
+.first-img-row {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+.img-container {
+  width: 100%;
+  min-height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 16px;
+}
+
+.img-container p {
+  color: #fff;
+  text-align: center;
+  font-family: Mulish;
+  font-size: 28px;
+  font-weight: 800;
+}
+
+.sec-img-row {
+  margin: 24px 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+.third-img-row {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+#img-1 {
+  background-image: url("Images/Rectangle\ 5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#img-2 {
+  background-image: url("Images/Rectangle\ 8.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#img-3 {
+  background-image: url("Images/Rectangle\ 6.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#img-4 {
+  background-image: url("Images/Rectangle\ 7.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#img-5 {
+  background-image: url("Images/Rectangle\ 9.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#img-6 {
+  background-image: url("Images/Rectangle\ 11.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#img-7 {
+  background-image: url("Images/Rectangle\ 10.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
