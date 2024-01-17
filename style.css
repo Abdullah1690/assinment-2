@@ -252,3 +252,78 @@ button {
 #last-card {
   margin-top: 24px;
 }
+
+/* deal and discount area css */
+.deal-discount-container {
+}
+
+.deal-content {
+  text-align: center;
+}
+.deal-content h2 {
+  margin-top: 100px;
+  margin-bottom: 24px;
+}
+.deal-content p {
+  margin-bottom: 48px;
+}
+
+.booking-card-bg {
+  background-image: url("Images/Group\ 39.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 500px;
+  width: 100%;
+  border-radius: 16px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  padding: 56px;
+}
+
+.booking-card-shadow {
+  border-radius: 16px;
+  border: 2px solid #fff;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(2.5px);
+  max-width: 579px;
+  min-height: 389px;
+  width: 100%;
+  padding: 50px;
+}
+.booking-card-shadow h3 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  color: #131318;
+  font-family: Mulish;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.booking-card-shadow h4 {
+  margin-top: 16px;
+  margin-bottom: 24px;
+  color: #ff5400;
+  font-family: Mulish;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.booking-card-shadow p {
+  color: #5a5a5d;
+  font-family: Mulish;
+  font-size: 16px;
+  font-weight: 400;
+}
+.booking-card-icons {
+  display: flex;
+  margin-right: 24px;
+  gap: 10px;
+}
+
+.booking-card-icons span {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
